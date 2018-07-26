@@ -1,1 +1,2 @@
-print("Hello Python")
+name = input()
+print(f"Hello, {name}")
